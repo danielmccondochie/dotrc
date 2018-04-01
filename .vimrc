@@ -21,3 +21,5 @@ map <C-l> <C-W>l
 
 let g:NERDTreeDirArrowExpandable = '▸'
 let g:NERDTreeDirArrowCollapsible = '▾'
+
+let NERDTreeShowHidden=1
